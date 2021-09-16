@@ -105,5 +105,6 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo:  https://github.com/hengsaobahuang/hengsaobahuang.github.io
-  branch: master
+  repo: https://github.com/hengsaobahuang/hengsaobahuang.github.io
+  # example, https://github.com/hengsaobahuang/hengsaobahuang.github.io
+  branch: gh-pages
